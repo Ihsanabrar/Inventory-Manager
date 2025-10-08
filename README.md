@@ -8,8 +8,11 @@
 ## 🛠️ Fitur Utama
 
   🔐 Login Admin – Akses aplikasi hanya untuk admin.
+  
   🏠 Dashboard – Tampilan utama untuk navigasi fitur.
+  
   📦 Kelola Barang – Tambah, hapus, dan perbarui data barang. 
+  
   📊 Laporan – Lihat ringkasan data inventaris.
 
 ---

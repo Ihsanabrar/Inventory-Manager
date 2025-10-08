@@ -17,7 +17,7 @@
 
 ---
 
-📁 Struktur Project
+## 📁 Struktur Project
 
 
     inventory_manager/

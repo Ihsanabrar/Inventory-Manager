@@ -1,11 +1,11 @@
-#📦 Inventaris Manager
+# 📦 Inventaris Manager
 
   Aplikasi manajemen stok barang berbasis Python dan Tkinter.
   Proyek ini dibuat untuk membantu mengelola data inventaris seperti barang masuk, keluar, serta membuat laporan secara efisien dan mudah digunakan.
 
 ---
 
-##🛠️ Fitur Utama
+## 🛠️ Fitur Utama
 
   🔐 Login Admin – Akses aplikasi hanya untuk admin.
   🏠 Dashboard – Tampilan utama untuk navigasi fitur.
